@@ -14,11 +14,50 @@ h1 {
 }
 
 
-p {
-    font-family: my_font_2;
+/* p {
+    x y wide color
+    text-shadow:5px 10px 1px red  ;
+    
+} */
+
+/* p::first-letter{
+    color: red;
 }
 
-h2 > a{
+p::first-line{
+    color: purple;
+} */
+
+/* h2 > a{
     text-decoration: none;
     color: inherit;
+} */
+
+a:link {
+    color: red;
 }
+a:visited {
+    color: yellow; /* Visited links */
+}
+a:hover {
+    color: grey; /* When the user hovers over the link */
+}
+
+a:active {
+    color: green; /* When the link is clicked */
+}
+
+input:focus {
+    border: 4px solid red; /* Added "solid" to the border style */
+}
+
+.test {
+    background-color: aqua;
+    width: 400px;
+    height: 100px;
+    max-width: 450px;
+    max-height: 450px;
+    min-height: 100px;
+    min-width: 450px;
+}
+
