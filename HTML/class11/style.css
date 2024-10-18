@@ -1,0 +1,61 @@
+/* h1 {
+    background-color: hsl(120, 98%, 63%);
+    color: whitesmoke
+}
+
+p {
+    font-weight: 400;
+    font-style: italic;
+}
+
+strong {
+    font-weight: 400;
+}
+
+i {
+    font-style: normal;
+}
+ */
+/* 
+ p {
+    background-color: red;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+ } */
+/* 
+body {
+    font-size: 10px;
+
+}
+
+p {
+    font-size: 200%
+} */
+
+/* .depart_1 {
+    font-size: 30px;
+
+}
+
+p {
+    font: 1em;
+}
+
+.depart_2 {
+    font-size: 20px;
+}
+ */
+
+
+/* html {
+    background-color: grey;
+} */
+
+:root{
+    font-size: 20px;
+}
+
+p { 
+    font-size: 1rem
+}
