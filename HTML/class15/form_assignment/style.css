@@ -1,0 +1,18 @@
+I {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: aqua;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+form {
+    background-color: white;
+    border-radius: 10px;
+    width: 500px;
+}
