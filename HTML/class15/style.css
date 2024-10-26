@@ -1,12 +1,12 @@
 div {
-    border: 1px solid black;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
 }
 
-h1{ 
-    position: absolute;
-    top: 20px;
+h1 {
+  position: absolute;
+  top: 20px;
 }
