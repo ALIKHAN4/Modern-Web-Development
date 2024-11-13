@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "heading";
+    src: url("fonts/Raleway-ExtraBold.ttf");
+}
+
+@font-face {
+    font-family: "text";
+    src: url("fonts/Raleway-Regular.ttf");
+}
+
+* {
+    font-family: "text";
+}
+
+*:focus {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
